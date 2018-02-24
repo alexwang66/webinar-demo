@@ -41,7 +41,8 @@ spring:
     freemarker:
         cache: false
         request-context-attribute: request
-
+flyway:
+    baselineOnMigrate: true
 #以下属性不可用
 #mybatis:
 #    pagehelper:

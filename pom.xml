@@ -105,6 +105,12 @@
             <version>${mapper.version}</version>
         </dependency>
 
+        <!-- flywaydb-->
+        <dependency>
+            <groupId>org.flywaydb</groupId>
+            <artifactId>flyway-core</artifactId>
+            <version>5.0.7</version>
+        </dependency>
     </dependencies>
 
     <build>
