@@ -1,12 +1,10 @@
-#Spring Boot集成MyBatis的基础项目
+#CICD Webinar project
 
-#MyBatis3.3.0
+## 目的是将 JFrog Artifactory 的元数据做可视化
+Artifactory 的元数据能够聚合软件交付的需求，构建，测试，部署等环节的关键数据，将这些数据可视化，可以展示软件交付流程的健康状态，帮助团队基于数据进行持续改进。
 
-#Spring Boot 1.3.0.RELEASE
-
+### 注意：
 项目使用Spring Boot 1.3.0.RELEASE + Mybatis3.3.0
-
-项目集成了Mybatis分页插件和通用Mapper插件
 
 项目使用的mysql数据库，根据需要可以切换为其他数据库
 
